@@ -34,10 +34,11 @@ nav{
     justify-content: center;
     gap: 2%;
     border-radius: 50px;
-
     width: 60%;
-    height:8vh;
-    margin-top:3.5%;
+    height: 8vh;
+    margin-top: 3.5%;
+
+    
 }
 a{
     padding: 5px 5px;
@@ -70,8 +71,8 @@ a:hover{
     gap: 5%;
     min-height: 20vh;
     width: 20%;
-    margin:0.8%;
-    /* background-color: springgreen; */
+    margin-top: 0.8%;
+
 }
 .ri-volume-mute-line{
     color: white;
